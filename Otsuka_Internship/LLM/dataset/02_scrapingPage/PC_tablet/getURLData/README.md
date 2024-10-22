@@ -1,0 +1,3 @@
+cleanallPC_tablet_urls.xlsxに全てのデータが入ってます。
+
+apple、desktop、laptopなど全て無視でOK

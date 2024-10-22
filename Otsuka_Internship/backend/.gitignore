@@ -1,0 +1,8 @@
+# venv
+venv/
+/.env
+__pycache__/
+
+# ローカル用の実験ファイル
+local/
+/server/.env

@@ -1,0 +1,17 @@
+export type  Prodcut = {
+    id: string;
+    name: string;
+    price: string;
+    url: URL;
+    imageEncoding: string;
+};
+
+export type ARecommed = {
+    reason: string;
+    products: Product[];
+};
+
+export thype Answer = {
+    recommends: ARecommend[];
+    text: string;
+};

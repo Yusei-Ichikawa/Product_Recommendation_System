@@ -1,0 +1,10 @@
+#pip install -r requirement.txt
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-core==0.2.35
+langchain-openai==0.1.23
+langchain-text-splitters==0.2.2
+openai==1.42.0
+flask==3.0.3
+flask-cors==4.0.1
+faiss-cpu==1.8.0.post1

@@ -1,0 +1,30 @@
+{
+    "recommends": [
+      {
+        "reason": "(選択した理由)",
+        "products": [
+          {
+            "id": "(商品ID)",
+            "name": "(製品名)",
+            "price": "(価格)",
+            "url": "(空のテキスト)",
+            "imageEncoding": "base64ImageEncodingStringHere=="
+          }
+        ]
+      },
+      {
+        "reason": "(選択した理由)",
+        "products": [
+          {
+            "id": "(商品ID)",
+            "name": "(製品名)",
+            "price": "(価格)",
+            "url": "(空のテキスト)",
+            "imageEncoding": "base64ImageEncodingStringHere=="
+          }
+        ]
+      }
+    ],
+    "text": "(空のテキスト)"
+  }
+  
